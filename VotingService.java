@@ -1,6 +1,3 @@
-// ==============================
-// File: VotingService.java
-// ==============================
 
 import java.time.LocalDateTime;
 
